@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5qxlu0c9%t)=3ez+#@lmq2wvcf2bpp0@-jx-dp$dj#8fj&s$c*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crudjuanapp.azurewebsites.net', 'localhost', '127.0.0.1']
 
 
 # Application definition
